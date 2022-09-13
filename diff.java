@@ -4,5 +4,10 @@ public class diff {
         int b=10;
         int c=a+b;
         System.out.println(c);
+
+
+        if(c==a+b){
+            System.out.println("True");
+        }
     }
 }
